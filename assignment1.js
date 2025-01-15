@@ -62,5 +62,3 @@ function automateTests() {
 }
 /* Step 7: Invoke the "automateTests" function */
 automateTests();
-
-/* git@github.com:asintha-dilshan/Assignment-01-code.git */
